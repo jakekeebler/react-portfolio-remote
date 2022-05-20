@@ -11,8 +11,8 @@ function App() {
     <Routes>
       <Route path="/react-portfolio-remote/" element={<Layout />}>
         <Route index element={<Home />} />
-        <Route path="about" element={<About />} />
-        <Route path="contact" element={<Contact />} />
+        <Route path="/react-portfolio-remote/about" element={<About />} />
+        <Route path="/react-portfolio-remote/contact" element={<Contact />} />
       </Route>
     </Routes>
     </>

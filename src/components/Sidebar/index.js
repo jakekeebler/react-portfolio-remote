@@ -10,18 +10,18 @@ const Sidebar = () => (
     <div className='nav-bar'>
         <Link className='logo' to='/'>
             <img src={LogoS} alt='logo' />
-            <img className='sub-logo' src={LogoSubtitle} alt='slobodan' />
+            <img className='sub-logo' src={LogoSubtitle} alt='keebler' />
         </Link>
         <nav>
-            <NavLink exact='true' activeclassname='active' to='/'>
+            <NavLink exact='true' activeclassname='active' to='/react-portfolio-remote/'>
                 <FontAwesomeIcon icon={faHome} color='#4d4d4e' />
             </NavLink>
 
-            <NavLink exact='true' activeclassname='active' className='about-link' to='/about'>
+            <NavLink exact='true' activeclassname='active' className='about-link' to='/react-portfolio-remote/about'>
                 <FontAwesomeIcon icon={faUser} color='#4d4d4e' />
             </NavLink>
 
-            <NavLink exact='true' activeclassname='active' className='contact-link' to='/contact'>
+            <NavLink exact='true' activeclassname='active' className='contact-link' to='/react-portfolio-remote/contact'>
                 <FontAwesomeIcon icon={faEnvelope} color='#4d4d4e' />
             </NavLink>
         </nav>

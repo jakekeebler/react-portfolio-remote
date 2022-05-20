@@ -40,7 +40,7 @@ const Home = () => {
                 <Link to="contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <nav>
-            <NavLink exact='true' activeclassname='active' className='about-link' to='/about'>
+            <NavLink exact='true' activeclassname='active' className='about-link' to='/react-portfolio-remote/about'>
             <img src={Me} alt='me'  />
             </NavLink>
             </nav>

@@ -37,7 +37,7 @@ const Home = () => {
                     <AnimatedLetters letterClass={letterClass} strArray={jobArray2} idx={38} />
                 </h1>
                 <h2>Frontend/Backend Web Developer | React Enthusiast</h2>
-                <Link to="contact" className='flat-button'>CONTACT ME</Link>
+                <Link to="/react-portfolio-remote/contact" className='flat-button'>CONTACT ME</Link>
             </div>
             <nav>
             <NavLink exact='true' activeclassname='active' className='about-link' to='/react-portfolio-remote/about'>

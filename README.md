@@ -6,4 +6,4 @@ In my portfolio, I make use of npm packages such as css.animate for transitions 
 
 Here's a link to check it out: https://jakekeebler.github.io/react-portfolio-remote/
 
-To see the code, check out the main branch, or click here: 
+To see the code, check out the main branch, or click here: https://github.com/jakekeebler/react-portfolio-remote/tree/main

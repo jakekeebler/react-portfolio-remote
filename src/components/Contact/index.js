@@ -45,7 +45,7 @@ const Contact = () => {
                         />
                     </h1>
                     <p>
-                        I am interested in being your go-to web developer at your place of employment. Feel free to send any inquiries using the form below.
+                        I am interested in being your go-to web developer at your place of employment. Feel free to send any inquiries to my email: jakekeebler@gmail.com or using the form below.
                     </p>
                     <div className='contact-form'>
                         <form ref={refForm} onSubmit={sendEmail}>

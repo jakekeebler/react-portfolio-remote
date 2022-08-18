@@ -4,10 +4,20 @@ img {
     border-radius: 8px;
 }
 
+h1 {
+    margin-left: -60px;
+}
+
+.projectInfo {
+    margin-left: -40px;
+}
+
 .project-container {
     display: flex;
     flex-direction: row;
     animation: fadeIn 1s 1.8s backwards;
+    margin-left: -60px;
+    margin-bottom: 30px;
 }
 
 .project-item {

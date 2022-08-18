@@ -42,7 +42,7 @@ const Sidebar = () => (
                 </a>
             </li>
             <li>
-                <a target='_blank' rel='noreferrer' href='https://docs.google.com/document/d/19QP5AiPIm1RxVM2UXrqs1JW5VdPE2ECEk5VMfGa1vF8/edit?usp=sharing'>
+                <a target='_blank' rel='noreferrer' href='https://docs.google.com/document/d/1aK79TefGfptvq8QHQcKbmrTPWVuILDl8CLsUtVqA3mY/edit?usp=sharing'>
                     <FontAwesomeIcon icon={faBook} color='#4d4d4e' />
                 </a>
             </li>

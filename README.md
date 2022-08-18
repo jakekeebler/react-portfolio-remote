@@ -18,8 +18,7 @@
   ## Installation Instructions
   * In order to install and use this program locally, you must have node.js installed first. Download this repository and access it in your terminal of choice. When you are in the root folder enter "npm install" in the terminal to install all necessary packages. Afterwards, type "npm start" into the prompt to begin the program. 
   
-  This program has also been deployed through Heroku, which you can access here: (https://jakekeebler.github.io/react-portfolio-remote/)
-  --- PLEASE NOTE: THERE IS A BUG WHEN SUBMITTING THE CONTACT FORM WHERE IT 404s THE REACT APP. WHEN THIS HAPPENS, ACCESS THE SITE FROM THE LINK ABOVE AGAIN. ---
+  * This program has also been deployed through Heroku, which you can access here: (https://jakekeebler.github.io/react-portfolio-remote/)
   
   ## Test Instructions
   * No testing required.
